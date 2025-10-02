@@ -225,37 +225,40 @@ footer {
     font-size: 8px;          
     padding: 8px 0;
   }
-  .sobrecurso{
-    right: 840px;
-    font-size: 20px;
-  }
+  .sobrecurso {
+        font-size: 18px;
+        text-align: center;
+        margin: 0 auto;
+    }
+
     .textcurso {
-        font-size: 10px;
-        padding-left: 250px;
-        left: -40px;
+        font-size: 14px;
+        padding: 0 15px;
+        text-align: center;
     }
 
     .imgtext {
-        width: 160px;
-        height: 160px;
-        left: 15px;
-        bottom: 300px;
+        width: 200px;
+        height: auto;
     }
-  .barinicio{
-    font-size: 20px;
-    bottom: 300px;
-    left: 30px;
-  }
-  .habdesen{
-    font-size: 15px;
-    position: relative;
-    left: -40px;
-  }
-  .lista{
-    font-size: 15px;
-    
+
+    .barinicio {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .habdesen {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .lista {
+        font-size: 18px;
+        padding-left: 20px;
+    }
 }
 
 }
+
 
 
