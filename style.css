@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -229,20 +230,20 @@ footer {
     padding: 8px 0;
   }
     .sobrecurso {
-        right: 870px;
+        right: 900px;
         font-size: 20px;
     }
 
     .textcurso {
-        font-size: 15px;
-        padding-left: 250px;
-        left: -30px;
+        font-size: 10px;
+        padding:auto;
+        right: 100px;
     }
 
     .imgtext {
-        width: 190px;
-        height: 190px;
-        left: 20px;
+        width: 160px;
+        height: 160px;
+        left: 15px;
         bottom: 300px;
     }
 
