@@ -229,17 +229,18 @@ footer {
     right: 840px;
     font-size: 20px;
   }
-  .textcurso{
-    font-size: 10px;
-    padding-left: 250px;
-    left: -30px;
-  }
-  .imgtext{
-    width: 190px;
-    height: 190px;
-    left: 20px;
-    bottom: 300px;
-  }
+    .textcurso {
+        font-size: 10px;
+        padding-left: 250px;
+        left: -40px;
+    }
+
+    .imgtext {
+        width: 160px;
+        height: 160px;
+        left: 15px;
+        bottom: 300px;
+    }
   .barinicio{
     font-size: 20px;
     bottom: 300px;
@@ -256,4 +257,5 @@ footer {
 }
 
 }
+
 
