@@ -224,17 +224,17 @@ footer {
     text-align: center;      
     font-size: 8px;          
     padding: 8px 0;
-  }
-  .sobrecurso {
-        font-size: 18px;
-        text-align: center;
-        margin: 0 auto;
     }
 @media (max-width: 467px) {
     .textcurso {
         font-size: 14px;
         padding: 0 15px;
         text-align: center;
+  }
+  .sobrecurso {
+        font-size: 18px;
+        text-align: center;
+        margin: 0 auto;
     }
 
     .imgtext {
@@ -259,6 +259,7 @@ footer {
 }
 
 }
+
 
 
 
